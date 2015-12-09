@@ -1,0 +1,23 @@
+{
+  "name": "gulp-collect",
+  "version": "0.1.0",
+  "description": "Work on all files of a gulp stream simultaneously",
+  "main": "gulp-collect.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gagern/gulp-collect.git"
+  },
+  "keywords": [
+    "gulpplugin",
+    "files"
+  ],
+  "author": "Martin von Gagern <Martin.vGagern@gmx.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gagern/gulp-collect/issues"
+  },
+  "homepage": "https://github.com/gagern/gulp-collect#readme"
+}
